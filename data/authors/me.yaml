@@ -72,24 +72,28 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Tatyana23sS
+    label: GitHub
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=ВАШ_ID
+    url: https://scholar.google.com/
     label: Google Scholar
   - icon: brands/orcid
-    url: https://orcid.org/0000-0000-0000-0000
+    url: https://orcid.org/
     label: ORCID
-  - icon: brands/researchgate
-    url: https://www.researchgate.net/profile/Ваш-профиль
-    label: ResearchGate
   - icon: brands/mendeley
-    url: https://www.mendeley.com/profiles/ваш-профиль/
+    url: https://www.mendeley.com/
     label: Mendeley
-  - icon: academia
-    url: https://independent.academia.edu/ВашПрофиль
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/
+    label: ResearchGate
+  - icon: brands/academia
+    url: https://www.academia.edu/
     label: Academia.edu
-  - icon: arxiv
-    url: https://arxiv.org/user/
+  - icon: brands/arxiv
+    url: https://arxiv.org/
     label: arXiv
+  - icon: brands/elibrary
+    url: https://elibrary.ru/
+    label: eLibrary
 
     
 
