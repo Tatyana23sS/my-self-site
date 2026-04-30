@@ -66,6 +66,33 @@ accomplishments:
     description: Выполнила лабораторные работы по темам "Указатели и ссылки", "Списки и структуры"
     date: 2026-04-11
 
+links:
+  - icon: at-symbol
+    url: mailto:1032253509@rudn.ru
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Tatyana23sS
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=ВАШ_ID
+    label: Google Scholar
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0000-0000-0000
+    label: ORCID
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Ваш-профиль
+    label: ResearchGate
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/profiles/ваш-профиль/
+    label: Mendeley
+  - icon: academia
+    url: https://independent.academia.edu/ВашПрофиль
+    label: Academia.edu
+  - icon: arxiv
+    url: https://arxiv.org/user/
+    label: arXiv
+
+    
+
 
 
 
